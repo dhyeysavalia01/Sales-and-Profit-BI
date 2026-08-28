@@ -67,7 +67,7 @@ The dashboard helps identify patterns such as:
 
 ---
 ## Dashboard
-![Data model](snapshots/dashbord.png)
+![dashboard](snapshots/dashboard.png)
 
 
 ### [🔰 Visit Dashboard](tinyurl.com/mbnad8d3)
