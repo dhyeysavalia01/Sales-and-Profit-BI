@@ -70,4 +70,4 @@ The dashboard helps identify patterns such as:
 ![dashboard](snapshots/dashboard.png)
 
 
-### [🔰 Visit Dashboard](tinyurl.com/mbnad8d3)
+### [🔰 Visit Dashboard]([tinyurl.com/mbnad8d3](https://public.tableau.com/views/SalesandProfitBI/SalesandProfitBI?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
